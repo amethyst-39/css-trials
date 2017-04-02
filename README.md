@@ -68,7 +68,7 @@ font-size:20px; font-family:Arial; margin: 5%;
 </style>
 
 </head>
-<body background="\\C:\Users\Sony\Desktop\CSS\BG1.jpg" link="white" vlink="white">
+<body background="BG1.jpg" link="white" vlink="white">
 <div class="outerbox">
    <div class="innerbox">
       <p align="center"><font size="6" color="#45B5BA">*<sub>*</sub><sup>*</sup>*<sub>*</sub><sup>*</sup></font><i><font size="7" color="#303030">TOURSPY.com</font></i><font size="6" color="#45B5BA"><sup>*</sup><sub>*</sub>*<sup>*</sup><sub>*</sub>*</font></p>
